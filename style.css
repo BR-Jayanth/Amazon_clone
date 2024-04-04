@@ -210,6 +210,9 @@ span {
 
 /* box section */
 /* box 2 with 4 image */
+.box7{
+    width: 40%;
+}
 
 .box-content-2{
     display: flex;
